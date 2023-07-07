@@ -17,7 +17,10 @@ const Laptop = () => {
           distanceFactor={1.16}
           rotation-x={-0.25}
         >
-          <iframe src="https://2023dennislee3dportfolio.netlify.app/"></iframe>
+          <iframe
+            title="myFrame"
+            src="https://2023dennislee3dportfolio.netlify.app/"
+          ></iframe>
         </Html>
       </PresentationControls>
     </>
